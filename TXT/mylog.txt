@@ -9,3 +9,6 @@ ZCZC W00  40 L06 Read Week00 materials
 ZCZC W01  30 l06 Read Week01 materials
 ZCZC W01 110 L02 OS Week01 Zoom Class
 ZCZC W01  25 L11 Assignment #01
+ZCZC W01  20 L31 Install VirtualBox
+ZCZC W01  40 L28 Install and setup SSH, putty and winscp
+ZCZC W01  50 L12 Assignment #02
