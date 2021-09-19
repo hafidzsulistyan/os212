@@ -19,3 +19,6 @@ ZCZC W01  15 L17 Assignment #07
 ZCZC W01  60 L13 Assignment #03
 ZCZC W01  45 L18 Assignment #08
 ZCZC W01  35 L19 Assignment #09
+ZCZC W02 100 L02 OS Week02 Zoom Class
+ZCZC W02 210 L13 Assignment #03 (Watch 2 Cyber Security Videos)
+ZCZC W02  80 l02 OS Week02 Zoom Class
