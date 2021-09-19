@@ -32,4 +32,5 @@ ZCZC W02  25 L18 Assignment #08
 ZCZC W02  15 L20 Assignment #10
 ZCZC W02  40 L10 Assignment #11, #13
 ZCZC W02  20 L10 Assignment #12 (Update mylog.txt)
+ZCZC W02  15 L19 Assignment #19 (Add link to my links.md)
 
