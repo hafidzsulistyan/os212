@@ -21,4 +21,15 @@ ZCZC W01  45 L18 Assignment #08
 ZCZC W01  35 L19 Assignment #09
 ZCZC W02 100 L02 OS Week02 Zoom Class
 ZCZC W02 210 L13 Assignment #03 (Watch 2 Cyber Security Videos)
-ZCZC W02  80 l02 OS Week02 Zoom Class
+ZCZC W02  80 L02 OS Week02 Zoom Class
+ZCZC W02  90 L11 Assignment #01
+ZCZC W02  15 L12 Assignment #02
+ZCZC W02  15 L14 Assignment #04
+ZCZC W02  10 L15 Assignment #05
+ZCZC W02  15 L16 Assignment #06
+ZCZC W02  10 L17 Assignment #07
+ZCZC W02  25 L18 Assignment #08
+ZCZC W02  15 L20 Assignment #10
+ZCZC W02  40 L10 Assignment #11, #13
+ZCZC W02  20 L10 Assignment #12 (Update mylog.txt)
+
