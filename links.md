@@ -8,4 +8,4 @@ permalink: /LINKS/
 ## LINKS
 # Week 02
 1. [C Language Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)<br>
-   This article provides a lot of information about c language to help me learn.
+   This article provides a lot of information about C language to help anyone learn about C.
