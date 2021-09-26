@@ -6,6 +6,7 @@ ZCZC W00 110 L02 OS Week00 Zoom Class
 ZCZC W00  25 L04 GitHub Pages related
 ZCZC W00 105 L02 OS Week00 Zoom Class
 ZCZC W00  40 L06 Read Week00 materials
+
 ZCZC W01  30 l06 Read Week01 materials
 ZCZC W01 110 L02 OS Week01 Zoom Class
 ZCZC W01  25 L11 Assignment #01
@@ -19,6 +20,7 @@ ZCZC W01  15 L17 Assignment #07
 ZCZC W01  60 L13 Assignment #03
 ZCZC W01  45 L18 Assignment #08
 ZCZC W01  35 L19 Assignment #09
+
 ZCZC W02 100 L02 OS Week02 Zoom Class
 ZCZC W02 210 L13 Assignment #03 (Watch 2 Cyber Security Videos)
 ZCZC W02  80 L02 OS Week02 Zoom Class
@@ -33,4 +35,17 @@ ZCZC W02  15 L20 Assignment #10
 ZCZC W02  40 L10 Assignment #11, #13
 ZCZC W02  20 L10 Assignment #12 (Update mylog.txt)
 ZCZC W02  15 L19 Assignment #19 (Add link to my links.md)
+
+ZCZC W03  20 L05 Quiz W02 
+ZCZC W03 100 L02 OS Week03 Zoom Class
+ZCZC W03  90 L11 Assignment #01 (Read OSC Chapter 13, 14, 15)
+ZCZC W03  90 L02 OS Week02 Zoom Class
+ZCZC W03  60 L12 Assignment #02
+ZCZC W03  45 L13 Assignment #03
+ZCZC W03  10 L14 Assignment #04
+ZCZC W03  75 L15 Assignment #05
+ZCZC W03  30 L19 Assignment #09
+ZCZC W03  20 L17 Assignment #07
+ZCZC W03  15 L18 Assignment #08
+ZCZC W03  20 L16 Assignment #06
 
