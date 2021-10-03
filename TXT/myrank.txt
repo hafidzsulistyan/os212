@@ -5,4 +5,7 @@ ZCZC W02 huanis
 ZCZC W03 icarustrench
 ZCZC W03 indiradr
 ZCZC W03 ivanphanderson
+ZCZC W04 jeromeez
+ZCZC W04 johaneschristian
+ZCZC W04 kanziebub
 
