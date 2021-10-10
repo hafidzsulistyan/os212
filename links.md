@@ -19,3 +19,9 @@ permalink: /LINKS/
    This article explains about memory allocation in C. Because this week in operating systems we learn about memory allocation so I decided to GSGS about memory allocation and found this article to help me study.
 2. [Pointers in C](https://www.guru99.com/c-pointers.html)<br>
    This article helped me to understand more about pointers in C language.
+
+# Week 05
+1. [Virtual Memory](https://youtu.be/M8M4M6NSmeA)<br>
+   This first part of virtual memory series explains how virtual memory works in operating systems and the video is in Bahasa. This reference going to help you learn more if you cant deal with the english explanation.
+2. [Virtual Memory Algorithm](https://youtu.be/xpwRadrF0Ns)<br>
+   The second part explains the algorithm used in virtual memory. I recommend to watch this series if you prefer virtual memory explanation in Bahasa.
