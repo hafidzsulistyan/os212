@@ -49,7 +49,7 @@ ZCZC W03  20 L17 Assignment #07
 ZCZC W03  15 L18 Assignment #08
 ZCZC W03  20 L16 Assignment #06
 
-ZCZC W04 100 LO2 OS Week04 Zoom Class
+ZCZC W04 100 L02 OS Week04 Zoom Class
 ZCZC W04  40 L11 Assignment #01 (Read OSC Chapter 9)
 ZCZC W04  30 L12 Assignment #02
 ZCZC W04  30 L13 Assignment #03
@@ -59,4 +59,16 @@ ZCZC W04  30 L16 Assignment #06
 ZCZC W04  15 L17 Assignment #07
 ZCZC W04  20 L18 Assignment #08
 ZCZC W04  10 L19 Assignment #09
+
+ZCZC W05  20 L05 Quiz W04
+ZCZC W05 100 L02 OS Week05 Zoom Class
+ZCZC W05  75 L11 Assignment #01 (Read OSC Chapter 10)
+ZCZC W05  85 L02 OS Week05 Zoom Class
+ZCZC W05  45 L12 Assignment #02
+ZCZC W05  45 L13 Assignment #03
+ZCZC W05  40 L14 Assignment #04
+ZCZC W05  20 L15 Assignment #05
+ZCZC W05  10 L19 Assignment #09
+ZCZC W05  10 L17 Assignment #07
+ZCZC W05  15 L18 Assignment #08
 
