@@ -68,7 +68,9 @@ ZCZC W05  45 L12 Assignment #02
 ZCZC W05  45 L13 Assignment #03
 ZCZC W05  40 L14 Assignment #04
 ZCZC W05  20 L15 Assignment #05
-ZCZC W05  10 L19 Assignment #09
-ZCZC W05  10 L17 Assignment #07
-ZCZC W05  15 L18 Assignment #08
+ZCZC W05  10 L19 Assignment #09 Submit W05 Assignments
+ZCZC W05  10 L17 Assignment #07 Update my peer links ranking
+ZCZC W05  15 L18 Assignment #08 Update my log
+ZCZC W05  15 L16 Assignment #06 Create tips.md
+ZCZC W05  20 L64 Help friends to finish Assignment #05
 
