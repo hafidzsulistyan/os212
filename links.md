@@ -25,3 +25,10 @@ permalink: /LINKS/
    This first part of virtual memory series explains how virtual memory works in operating systems and the video is in Bahasa. This reference going to help you learn more if you cant deal with the english explanation.
 2. [Virtual Memory Algorithm](https://youtu.be/xpwRadrF0Ns)<br>
    The second part explains the algorithm used in virtual memory. I recommend to watch this series if you prefer virtual memory explanation in Bahasa.
+
+# Week 06
+1. [Concurrency and Threads](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+   I found a website that contains Operating Systems notes and there are a complete explanation about Concurrency and threads. I suggest to visit this website if you want to study about concurrency and threads and also make sure you have a lot of time and focus because it's going to be a long lessons.
+2. [Fork() function](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
+   This article explains the function of fork() and give the example to help you understand better about fork(). 
+
