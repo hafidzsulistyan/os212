@@ -84,3 +84,16 @@ ZCZC W06  15 L17 Assignment #07 (Review and update my peer links ranking)
 ZCZC W06  20 L18 Assignment #08 (Update mylog.txt)
 ZCZC W06  10 L19 Assignment #09 (Submit Week06 assignment)
 
+ZCZC W07  20 L05 Quiz W06 
+ZCZC W07 100 L02 OS Week07 Zoom Class
+ZCZC W07  75 L11 Assignment #01
+ZCZC W07  60 L02 OS Week07 Zoom Class
+ZCZC W07  45 L12 Assignment #02
+ZCZC W07  35 L13 Assignment #03
+ZCZC W07  40 L14 Assignment #04
+ZCZC W07  20 L15 Assignment #05
+ZCZC W07  10 L16 Assignment #06 (Already did from Week05)
+ZCZC W07  15 L17 Assignment #07
+ZCZC W07  15 L18 Assignment #08
+ZCZC W07  15 L19 Assignment #09
+

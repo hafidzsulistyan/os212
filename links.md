@@ -32,3 +32,9 @@ permalink: /LINKS/
 2. [Fork() function](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
    This article explains the function of fork() and give the example to help you understand better about fork(). 
 
+# Week 07
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+   This link can help you to study about process synchronization in operating systems. It also provides you with classical synchronization problems to help you practice and understand better.
+2. [Introduction to Semaphores](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
+   The same website as the first link also provides an article about Semaphores in OS. It tells about the properties, types, advantages and disadvantages of semaphore and give an example of semaphore usage. Hope it helps you to study better for Quiz W07.
+
